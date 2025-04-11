@@ -1,0 +1,1741 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"bs" = (
+/obj/structure/window/reinforced,
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/machinery/power/smes/shuttle/micro/precharged{
+	dir = 4
+	},
+/obj/machinery/door/poddoor/shutters/preopen{
+	id = "pod_window"
+	},
+/obj/structure/cable/yellow{
+	icon_state = "0-8"
+	},
+/turf/open/floor/engine/hull/reinforced,
+/area/space)
+"bQ" = (
+/obj/structure/table/chem,
+/obj/item/ammo_casing/spent/magnum_steel{
+	pixel_x = 5;
+	pixel_y = 6
+	},
+/obj/item/ammo_casing/spent/magnum_steel{
+	pixel_x = -7;
+	pixel_y = 6
+	},
+/obj/item/ammo_casing/spent/magnum_steel{
+	pixel_x = -1;
+	pixel_y = 5
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"eD" = (
+/obj/effect/decal/cleanable/blood/splatter/over_window,
+/turf/closed/wall/r_wall/syndicate,
+/area/space)
+"eP" = (
+/turf/open/floor/plasteel/white,
+/area/space)
+"fg" = (
+/obj/effect/mob_spawn/human/corpse,
+/turf/open/floor/plating/asteroid/snow/icemoon,
+/area/space)
+"fi" = (
+/obj/structure/salvageable/computer{
+	dir = 8
+	},
+/turf/open/floor/plasteel/patterned/brushed,
+/area/space)
+"hi" = (
+/obj/structure/window/reinforced,
+/obj/effect/turf_decal/industrial/traffic{
+	dir = 1
+	},
+/obj/machinery/light/small/directional/east{
+	pixel_y = -6
+	},
+/obj/effect/turf_decal/techfloor,
+/obj/machinery/light_switch{
+	pixel_x = 22;
+	pixel_y = 5;
+	dir = 8
+	},
+/turf/open/floor/plasteel/patterned/brushed,
+/area/space)
+"ku" = (
+/obj/item/clothing/under/syndicate/hardliners,
+/turf/open/floor/plating/asteroid/snow/icemoon,
+/area/space)
+"kX" = (
+/obj/item/clothing/glasses/hud/security/sunglasses/hardliners,
+/turf/open/floor/plating/asteroid/snow/icemoon,
+/area/space)
+"lT" = (
+/turf/open/floor/plating,
+/area/space)
+"lZ" = (
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/obj/machinery/computer/helm{
+	dir = 8;
+	layer = 3.3
+	},
+/obj/structure/cable/yellow{
+	icon_state = "1-2"
+	},
+/obj/effect/turf_decal/techfloor{
+	dir = 1
+	},
+/obj/effect/turf_decal/industrial/traffic,
+/turf/open/floor/plasteel/patterned/brushed,
+/area/space)
+"mn" = (
+/obj/structure/chair/office/dark{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"ms" = (
+/obj/effect/turf_decal/siding/white,
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/obj/structure/cable/yellow{
+	icon_state = "1-2"
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/pod,
+/area/space)
+"mR" = (
+/turf/closed/wall/r_wall/syndicate,
+/area/space)
+"np" = (
+/obj/effect/turf_decal/industrial/traffic{
+	dir = 1
+	},
+/obj/structure/railing{
+	dir = 8
+	},
+/obj/structure/cable,
+/obj/structure/cable/yellow{
+	icon_state = "0-4"
+	},
+/obj/effect/turf_decal/techfloor,
+/obj/machinery/power/port_gen/pacman,
+/obj/item/stack/sheet/mineral/plasma/twenty,
+/obj/machinery/door/window/brigdoor/southleft,
+/obj/structure/closet/wall/red/directional/west{
+	secure = 1;
+	locked = 1
+	},
+/turf/open/floor/plasteel/patterned/brushed,
+/area/space)
+"nW" = (
+/turf/closed/wall/mineral/titanium,
+/area/space)
+"po" = (
+/obj/item/clothing/head/helmet/hardliners/swat{
+	pixel_x = 0;
+	pixel_y = 4
+	},
+/obj/item/clothing/suit/armor/hardliners{
+	pixel_x = 2;
+	pixel_y = -5
+	},
+/turf/open/floor/plating/asteroid/snow/icemoon,
+/area/space)
+"qj" = (
+/obj/structure/salvageable/server,
+/turf/open/floor/plating,
+/area/space)
+"sS" = (
+/obj/structure/salvageable/computer,
+/turf/open/floor/plating,
+/area/space)
+"tc" = (
+/obj/structure/salvageable/machine,
+/obj/structure/fluff{
+	icon_state = "scanner_depower";
+	pixel_x = -1;
+	pixel_y = 10
+	},
+/turf/open/floor/plating,
+/area/space)
+"tj" = (
+/turf/closed/mineral/random/snow/underground,
+/area/space)
+"tn" = (
+/obj/structure/grille,
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/obj/structure/cable/yellow{
+	icon_state = "0-2"
+	},
+/obj/machinery/door/poddoor/shutters/preopen{
+	id = "pod_window"
+	},
+/obj/machinery/power/terminal{
+	dir = 8
+	},
+/turf/open/floor/engine/hull/reinforced,
+/area/space)
+"tT" = (
+/obj/effect/turf_decal/siding/white,
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/mob/living/simple_animal/hostile/human/ramzi,
+/turf/open/floor/pod,
+/area/space)
+"tV" = (
+/obj/structure/window/reinforced,
+/obj/effect/turf_decal/industrial/traffic{
+	dir = 1
+	},
+/obj/effect/turf_decal/techfloor,
+/turf/open/floor/plasteel/patterned/brushed,
+/area/space)
+"tZ" = (
+/obj/item/storage/secure/briefcase,
+/turf/open/floor/plating/asteroid/snow/icemoon,
+/area/space)
+"us" = (
+/turf/open/floor/plasteel/tech,
+/area/space)
+"uK" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/obj/machinery/power/smes/shuttle/micro/precharged{
+	dir = 4
+	},
+/obj/machinery/door/poddoor/shutters/preopen{
+	id = "pod_window"
+	},
+/obj/structure/cable/yellow{
+	icon_state = "0-8"
+	},
+/turf/open/floor/engine/hull/reinforced,
+/area/space)
+"vU" = (
+/mob/living/simple_animal/hostile/human/ramzi/ranged/smg,
+/turf/open/floor/plating/asteroid/snow/icemoon,
+/area/space)
+"yh" = (
+/obj/effect/decal/cleanable/blood/squirt{
+	dir = 8
+	},
+/turf/open/floor/plating/asteroid/snow/icemoon,
+/area/space)
+"zB" = (
+/obj/effect/turf_decal/industrial/traffic{
+	dir = 4
+	},
+/obj/effect/turf_decal/industrial/traffic{
+	dir = 8
+	},
+/obj/structure/cable{
+	icon_state = "0-4"
+	},
+/turf/open/floor/engine/hull/reinforced/interior,
+/area/space)
+"AO" = (
+/obj/structure/salvageable/computer{
+	dir = 4
+	},
+/turf/open/floor/plasteel/patterned/brushed,
+/area/space)
+"Bx" = (
+/turf/closed/wall/mineral/plastitanium/nodiagonal,
+/area/space)
+"BZ" = (
+/obj/structure/window/reinforced,
+/obj/effect/turf_decal/industrial/traffic{
+	dir = 1
+	},
+/obj/structure/cable/yellow{
+	icon_state = "2-8"
+	},
+/obj/structure/cable/yellow{
+	icon_state = "1-8"
+	},
+/obj/effect/turf_decal/techfloor,
+/turf/open/floor/plasteel/patterned/brushed,
+/area/space)
+"Fs" = (
+/obj/machinery/power/smes,
+/turf/open/floor/plating,
+/area/space)
+"GB" = (
+/turf/open/floor/plasteel/dark,
+/area/space)
+"Hd" = (
+/obj/effect/turf_decal/industrial/traffic{
+	dir = 4
+	},
+/obj/effect/turf_decal/industrial/traffic{
+	dir = 8
+	},
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/turf/open/floor/engine/hull/reinforced/interior,
+/area/space)
+"Ia" = (
+/obj/item/clothing/suit/toggle/armor/vest/hardliners,
+/turf/open/floor/plating/asteroid/snow/icemoon,
+/area/space)
+"Ju" = (
+/obj/effect/turf_decal/siding/white,
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/pod,
+/area/space)
+"JI" = (
+/mob/living/simple_animal/hostile/human/ramzi/melee/machete,
+/turf/open/floor/plating/asteroid/snow/icemoon,
+/area/space)
+"Ph" = (
+/mob/living/simple_animal/hostile/human/ramzi/ranged/shotgun/incendiary,
+/turf/open/floor/plating/asteroid/snow/icemoon,
+/area/space)
+"QW" = (
+/obj/machinery/power/shuttle/engine/electric{
+	dir = 4
+	},
+/obj/structure/cable/yellow{
+	icon_state = "0-4"
+	},
+/turf/open/floor/engine/hull/reinforced,
+/area/space)
+"RA" = (
+/obj/structure/salvageable/server{
+	pixel_x = 0;
+	pixel_y = 0
+	},
+/turf/open/floor/plating,
+/area/space)
+"RD" = (
+/turf/open/floor/plating/asteroid/snow/icemoon,
+/area/space)
+"Sb" = (
+/mob/living/simple_animal/hostile/human/ramzi/ranged/sniper,
+/turf/open/floor/plating/asteroid/snow/icemoon,
+/area/space)
+"So" = (
+/obj/structure/table/chem,
+/obj/item/gun/ballistic/revolver/viper,
+/turf/open/floor/plasteel/dark,
+/area/space)
+"SU" = (
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/obj/effect/turf_decal/techfloor{
+	dir = 1
+	},
+/obj/effect/turf_decal/industrial/traffic,
+/turf/open/floor/plasteel/patterned/brushed,
+/area/space)
+"Tk" = (
+/turf/open/floor/plasteel/patterned/brushed,
+/area/space)
+"Tw" = (
+/mob/living/simple_animal/hostile/human/ramzi/ranged/space/stormtrooper/smg,
+/turf/open/floor/plating/asteroid/snow/icemoon,
+/area/space)
+"TO" = (
+/obj/structure/grille,
+/obj/structure/window/reinforced,
+/obj/structure/cable/yellow,
+/obj/machinery/door/poddoor/shutters/preopen{
+	id = "pod_window"
+	},
+/obj/machinery/power/terminal{
+	dir = 8
+	},
+/turf/open/floor/engine/hull/reinforced,
+/area/space)
+"US" = (
+/obj/structure/chair/office/dark{
+	dir = 4
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"XH" = (
+/turf/open/floor/plasteel/tech/grid,
+/area/space)
+"XJ" = (
+/obj/structure/chair/office/dark{
+	dir = 1
+	},
+/turf/open/floor/plasteel/dark,
+/area/space)
+"ZN" = (
+/obj/effect/turf_decal/siding/white,
+/obj/effect/turf_decal/siding/white{
+	dir = 1
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/machinery/power/apc/auto_name/directional/north,
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/obj/item/radio/intercom/directional/south,
+/mob/living/simple_animal/hostile/human/ramzi/melee,
+/turf/open/floor/pod,
+/area/space)
+"ZW" = (
+/obj/structure/chair/comfy/shuttle{
+	dir = 4;
+	layer = 3.3
+	},
+/obj/effect/turf_decal/techfloor{
+	dir = 1
+	},
+/obj/effect/turf_decal/industrial/traffic,
+/obj/machinery/button/door{
+	dir = 4;
+	pixel_y = -6;
+	pixel_x = -22;
+	name = "Aft Door";
+	id = "pod_aft"
+	},
+/obj/machinery/button/door{
+	dir = 4;
+	pixel_x = -32;
+	name = "Window Shutters";
+	id = "pod_window"
+	},
+/obj/machinery/door/window/brigdoor/northleft,
+/obj/machinery/button/door{
+	dir = 4;
+	pixel_y = 6;
+	pixel_x = -22;
+	name = "Fore Door";
+	id = "pod_fore"
+	},
+/mob/living/simple_animal/hostile/human/ramzi/civilian,
+/turf/open/floor/plasteel/patterned/brushed,
+/area/space)
+"ZY" = (
+/obj/item/storage/belt/security/webbing/hardliners,
+/turf/open/floor/plating/asteroid/snow/icemoon,
+/area/space)
+
+(1,1,1) = {"
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+"}
+(2,1,1) = {"
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+"}
+(3,1,1) = {"
+RD
+Bx
+zB
+Bx
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+"}
+(4,1,1) = {"
+QW
+Bx
+Ju
+Bx
+QW
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+"}
+(5,1,1) = {"
+uK
+ZW
+tT
+np
+bs
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+"}
+(6,1,1) = {"
+tn
+lZ
+ms
+BZ
+TO
+RD
+Sb
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+"}
+(7,1,1) = {"
+Bx
+SU
+Ju
+tV
+Bx
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+"}
+(8,1,1) = {"
+Bx
+SU
+Ju
+hi
+Bx
+RD
+Tw
+RD
+RD
+vU
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+"}
+(9,1,1) = {"
+Bx
+Bx
+ZN
+Bx
+Bx
+JI
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+tj
+tj
+tj
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+"}
+(10,1,1) = {"
+RD
+Bx
+Hd
+Bx
+RD
+RD
+RD
+vU
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+tj
+tj
+tj
+tj
+tj
+tj
+RD
+RD
+RD
+RD
+RD
+RD
+"}
+(11,1,1) = {"
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+Ph
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+RD
+RD
+RD
+RD
+RD
+"}
+(12,1,1) = {"
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+nW
+nW
+nW
+nW
+RD
+RD
+RD
+nW
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+RD
+RD
+RD
+RD
+RD
+"}
+(13,1,1) = {"
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+nW
+nW
+nW
+nW
+nW
+XH
+XH
+XH
+nW
+nW
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+RD
+RD
+RD
+RD
+"}
+(14,1,1) = {"
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+nW
+nW
+nW
+nW
+nW
+Fs
+XH
+qj
+XH
+XH
+nW
+nW
+nW
+nW
+tj
+tj
+tj
+tj
+RD
+RD
+RD
+RD
+"}
+(15,1,1) = {"
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+nW
+nW
+lT
+nW
+lT
+us
+XH
+XH
+tc
+sS
+XH
+us
+lT
+lT
+nW
+tj
+tj
+tj
+tj
+RD
+RD
+RD
+RD
+"}
+(16,1,1) = {"
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+nW
+lT
+lT
+us
+lT
+nW
+Fs
+XH
+RA
+XH
+XH
+nW
+lT
+lT
+nW
+tj
+tj
+tj
+tj
+RD
+RD
+RD
+RD
+"}
+(17,1,1) = {"
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+nW
+nW
+nW
+nW
+lT
+nW
+nW
+XH
+XH
+XH
+nW
+nW
+lT
+lT
+nW
+tj
+tj
+tj
+tj
+tj
+RD
+RD
+RD
+"}
+(18,1,1) = {"
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+nW
+lT
+lT
+nW
+lT
+lT
+nW
+nW
+us
+nW
+nW
+lT
+lT
+lT
+nW
+tj
+tj
+tj
+tj
+tj
+RD
+RD
+RD
+"}
+(19,1,1) = {"
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+tZ
+RD
+RD
+us
+lT
+lT
+us
+lT
+lT
+lT
+lT
+lT
+lT
+lT
+lT
+lT
+lT
+nW
+tj
+tj
+tj
+tj
+tj
+RD
+RD
+RD
+"}
+(20,1,1) = {"
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+kX
+Ia
+ZY
+RD
+us
+lT
+lT
+us
+lT
+lT
+lT
+lT
+lT
+lT
+lT
+lT
+lT
+lT
+nW
+tj
+tj
+tj
+tj
+tj
+RD
+RD
+RD
+"}
+(21,1,1) = {"
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+po
+fg
+ku
+RD
+nW
+lT
+lT
+nW
+nW
+nW
+nW
+nW
+nW
+nW
+nW
+nW
+us
+nW
+nW
+tj
+tj
+tj
+tj
+tj
+RD
+RD
+RD
+"}
+(22,1,1) = {"
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+yh
+RD
+RD
+nW
+nW
+nW
+nW
+mR
+mR
+eD
+mR
+mR
+mR
+eP
+eP
+eP
+eP
+nW
+tj
+tj
+tj
+tj
+tj
+RD
+RD
+RD
+"}
+(23,1,1) = {"
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+yh
+RD
+RD
+nW
+tj
+tj
+nW
+mR
+AO
+AO
+Tk
+Tk
+mR
+eP
+eP
+eP
+eP
+nW
+tj
+tj
+tj
+tj
+tj
+tj
+RD
+RD
+"}
+(24,1,1) = {"
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+yh
+RD
+RD
+nW
+tj
+tj
+nW
+eD
+US
+US
+GB
+Tk
+mR
+eP
+eP
+eP
+eP
+nW
+tj
+tj
+tj
+tj
+tj
+tj
+RD
+RD
+"}
+(25,1,1) = {"
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+yh
+RD
+RD
+nW
+tj
+tj
+nW
+mR
+So
+bQ
+XJ
+Tk
+us
+eP
+eP
+eP
+eP
+nW
+tj
+tj
+tj
+tj
+tj
+tj
+RD
+RD
+"}
+(26,1,1) = {"
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+yh
+RD
+tj
+tj
+tj
+tj
+nW
+mR
+mn
+mn
+GB
+Tk
+mR
+eP
+eP
+eP
+eP
+nW
+tj
+tj
+tj
+tj
+tj
+RD
+RD
+RD
+"}
+(27,1,1) = {"
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+tj
+tj
+tj
+tj
+tj
+nW
+mR
+fi
+fi
+Tk
+Tk
+mR
+eP
+eP
+eP
+eP
+nW
+tj
+tj
+tj
+tj
+tj
+RD
+RD
+RD
+"}
+(28,1,1) = {"
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+tj
+tj
+tj
+tj
+nW
+mR
+mR
+eD
+mR
+mR
+mR
+eP
+eP
+eP
+eP
+nW
+tj
+tj
+tj
+tj
+RD
+RD
+RD
+RD
+"}
+(29,1,1) = {"
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+tj
+tj
+tj
+tj
+nW
+nW
+nW
+nW
+nW
+nW
+nW
+nW
+nW
+nW
+nW
+nW
+tj
+tj
+tj
+RD
+RD
+RD
+RD
+RD
+"}
+(30,1,1) = {"
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+RD
+RD
+RD
+RD
+RD
+"}
+(31,1,1) = {"
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+RD
+RD
+RD
+RD
+RD
+RD
+"}
+(32,1,1) = {"
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+tj
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+"}
+(33,1,1) = {"
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+"}
+(34,1,1) = {"
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+"}
+(35,1,1) = {"
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+RD
+"}
